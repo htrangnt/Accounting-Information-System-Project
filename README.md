@@ -14,14 +14,21 @@ Hệ thống hướng đến việc chuẩn hóa quy trình nghiệp vụ, giả
 
 ## Thiết kế hệ thống
 ### Sơ đồ Use Case
-
+![Sơ đồ use case mức tổng thể](images/Sơ-đồ-use-case-mức-tổng-thể.png)
 ### Thiết kế cơ sở dữ liệu (ERD)
+![ERD](images/ERD.png)
+### Flowchart
+![Flowchart](images/Flowchart.png)
+### Mô hình LDM
+![Mô hình LDM](images/Mô-hình-LDM.png)
+### Mô hình phân rã chức năng
+![Mô hình phân rã chức năng](images/Mô-hình-phân-rã-chức-năng.png)
+### Mô hình DFD
+![Mô hình DFD mức 0](images/Mô-hình-DFD-mức-0.png)
+![Mô hình DFD mức 1](images/Mô-hình-DFD-mức-1.png)
 
 ## Giao diện hệ thống
-### Trang chủ
-
 ### Quản lý hóa đơn
-
-### Quản lý kho
-
+![Giao diện quản lý hóa đơn](images/Giao-diện-quản-lý-hóa-đơn.png)
 ### Báo cáo doanh thu
+![Giao diện báo cáo doanh thu](images/Giao-diện-báo-cáo-doanh-thu.png)
