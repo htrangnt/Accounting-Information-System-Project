@@ -28,7 +28,7 @@ Hệ thống hướng đến việc chuẩn hóa quy trình nghiệp vụ, giả
 ### Mô hình DFD Mức 1
 ![Mô hình DFD mức 1](Image/DFD_1.png)
 
-## Giao diện hệ thống
+## Giao diện minh họa của dự án
 ### Quản lý hóa đơn
 ![Giao diện quản lý hóa đơn](Image/hd.png)
 ### Báo cáo doanh thu
