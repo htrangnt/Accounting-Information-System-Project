@@ -1,4 +1,4 @@
-# Project-Accounting-Information-System
+# Accounting-Information-System-Project
 ## Giới thiệu
 Dự án xây dựng Hệ thống thông tin kế toán bán hàng nhằm hỗ trợ quản lý hoạt động bán hàng, kiểm soát tồn kho, xử lý dữ liệu kế toán và lập báo cáo tại Bách Hóa Xanh.
 Hệ thống hướng đến việc chuẩn hóa quy trình nghiệp vụ, giảm thao tác thủ công và nâng cao độ chính xác trong quản lý dữ liệu.
