@@ -17,14 +17,16 @@ Hệ thống hướng đến việc chuẩn hóa quy trình nghiệp vụ, giả
 ![Sơ đồ use case mức tổng thể](Image/Usecase.png)
 ### Thiết kế cơ sở dữ liệu (ERD)
 ![ERD](Image/ERD.png)
-### Flowchart
-![Flowchart](Image/Flowchart.png)
 ### Mô hình LDM
 ![Mô hình LDM](Image/LDM.png)
+### Flowchart
+![Flowchart](Image/Flowchart.png)
 ### Mô hình phân rã chức năng
 ![Mô hình phân rã chức năng](Image/BFD.png)
 ### Mô hình DFD
+Mức 0
 ![Mô hình DFD mức 0](Image/DFD_0.png)
+Mức 1
 ![Mô hình DFD mức 1](Image/DFD_1.png)
 
 ## Giao diện hệ thống
