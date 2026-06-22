@@ -23,10 +23,9 @@ Hệ thống hướng đến việc chuẩn hóa quy trình nghiệp vụ, giả
 ![Flowchart](Image/Flowchart.png)
 ### Mô hình phân rã chức năng
 ![Mô hình phân rã chức năng](Image/BFD.png)
-### Mô hình DFD
-Mức 0
+### Mô hình DFD Mức 0
 ![Mô hình DFD mức 0](Image/DFD_0.png)
-Mức 1
+### Mô hình DFD Mức 1
 ![Mô hình DFD mức 1](Image/DFD_1.png)
 
 ## Giao diện hệ thống
